@@ -23,13 +23,15 @@ availability and grant/deny
 
 
 
-#API DOCUUMENTATION: https://documenter.getpostman.com/view/8531496/Uz59MePa
+- #API DOCUUMENTATION: https://documenter.getpostman.com/view/8531496/Uz59MePa
 
 Please use the postman documentstion for API's
 
 
 
-Sample responses:
+
+
+- Sample responses:
 
 Get all users:
 
@@ -83,6 +85,8 @@ find all overdue:
         "isPaid": false
     }
   ]
+
+
 
 
 Models:
