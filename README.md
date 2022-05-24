@@ -34,7 +34,7 @@ Please use the postman documentstion for API's
 - Sample responses:
 
 Get all users:
-
+```
 
 [
     {
@@ -46,7 +46,11 @@ Get all users:
     }
 ]
 
+```
+
 Create Item:
+
+```
 
 {
     "id": "67353c2e-1fc2-450a-a12a-2efe0fe6d769",
@@ -58,8 +62,12 @@ Create Item:
     "total_count": 15
 }
 
+```
+
 
 rent:
+
+```
 
 {
     "id": "17a95c0b-01b3-4281-a04b-c1c659293666",
@@ -71,8 +79,11 @@ rent:
     "isPaid": false
 }
 
+```
 
 find all overdue:
+
+```
 
 [
     {
@@ -85,7 +96,8 @@ find all overdue:
         "isPaid": false
     }
   ]
-
+  
+```
 
 
 
