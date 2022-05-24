@@ -8,17 +8,17 @@ TO run: mvn spring-boot:run
 
 Use cases:
 
--- Register new user
--- Track customer using customer id
--- Display list of items customer has rented so far.
--- Display list of overdue items for a customer and total amount due to be paid by
+- Register new user
+- Track customer using customer id
+- Display list of items customer has rented so far.
+- Display list of overdue items for a customer and total amount due to be paid by
 the customer
--- Check no. of items available in the library for a given item using item id. EX.
+- Check no. of items available in the library for a given item using item id. EX.
 Item ID 100 is Harry Potter and Chamber of Secrets book. Total count: 5.
 Available: 2
--- Option for taking a new item from the library by the customer. Check
+- Option for taking a new item from the library by the customer. Check
 availability and grant/deny
--- Option for returning an item back to the library.
+- Option for returning an item back to the library.
 
 
 
