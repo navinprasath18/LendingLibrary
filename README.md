@@ -101,18 +101,26 @@ find all overdue:
 
 
 
-Models:
+Models: https://github.com/navinprasath18/LendingLibrary/tree/main/src/main/java/com/lendinglib/app/entities
 
-User
-Item
-ItemType
-Transaction
-Payment
-PayementType
-TransactionType
+- User
+- Item
+- ItemType
+- Transaction
+- Payment
+- PayementType
+- TransactionType
 
 
-User class has user details and balance
-Item class has Item details, count , rent of the item ,type
-Every rental is considered a transction
-Payments are made for a transaction.
+
+- User class has user details and balance
+- Item class has Item details, count , rent of the item ,type
+- Every rental is considered a transction
+- Payments are made for a transaction.
+
+
+service impl: https://github.com/navinprasath18/LendingLibrary/tree/main/src/main/java/com/lendinglib/app/service/impl
+
+
+
+
